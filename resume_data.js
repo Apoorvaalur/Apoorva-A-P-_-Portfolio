@@ -20,7 +20,7 @@ const PORTFOLIO_DATA = {
   stats: [
     { label: "Engineering CGPA", value: "7.5 / 10", note: "PESITM, 2022-2026" },
     { label: "Research Publications", value: "1", note: "IJMSERH Journal (2025)" },
-    { label: "Community Reach", value: "500+", note: "Students Mentored & Inspired" },
+    { label: "Community Reach", value: "300+", note: "Developers Reached" },
     { label: "Technical Events Hosted", value: "10+", note: "Tech & Cultural Symposia" }
   ],
 
@@ -184,15 +184,15 @@ const PORTFOLIO_DATA = {
 
   leadership: [
     {
-      role: "Founder & Community Lead",
+      role: "Contributor",
       organization: "Peer Developer Network",
-      scope: "5+ Student Organizations • 500+ Students Mentored",
+      scope: "3 Student Organizations • 300+ Developers Reached",
       highlights: [
-        "Built a grassroots developer community from the ground up across 5+ student organizations.",
-        "Spearheaded collaborative hackathons, resource-awareness drives, and developer masterclasses.",
-        "Delivered technical talks to 500+ students on leveraging open-source tools, free developer perks, and modern software development practices."
+        "Contributed to developer communities across 3 student organizations through collaborative events and student engagement.",
+        "Organized hackathons, resource-awareness drives, and technical masterclasses.",
+        "Delivered technical talks to 500+ students on leveraging free developer tools, open-source platforms, and learning resources."
       ],
-      impactMetric: "500+ Developers Empowered"
+      impactMetric: "300+ Developers Reached"
     },
     {
       role: "Technical Coordinator & Event Host",
